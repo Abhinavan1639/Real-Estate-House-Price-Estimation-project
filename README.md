@@ -1,5 +1,6 @@
 # Real_Estate_House_Price_Estimation_project REAL ESTATE HOUSE PRICE ESTIMATION PROJECT   
-⭐ Developed a Machine Learning Model and trained that model using Raw labelled Data set.  
+⭐ Developed a Machine Learning Model and trained that model using Raw labelled Data set.
+
 ⭐ The dataset consists of multiple records that has Information about City, Area of the
 house (in sq.feet),Number of bedrooms, Parking information etc.
 
