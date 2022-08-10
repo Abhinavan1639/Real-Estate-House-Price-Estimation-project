@@ -1,4 +1,4 @@
-# Housing_Price_Estimation_Project
+# Real_Estate_House_Price_Estimation_Project
 
 ## Installation Guide
 1. Clone or Fork the Project
