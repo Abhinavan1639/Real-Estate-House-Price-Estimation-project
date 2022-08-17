@@ -1,4 +1,4 @@
-# Real_Estate_House_Price_Estimation_Project
+# Real-Estate-House-Price-Estimation-Project by Abhinavan Sarikonda
 
 ## Installation Guide
 1. Clone or Fork the Project
@@ -241,6 +241,3 @@ Next Step are :-<br>
 a. we will work on mobile application<br>
 b. we will reduce the size of model using PCA .
 
-
-### 11. Working Project Video
-![Working Projecct](https://github.com/bibek376/Housing_Price_Prediction/blob/master/Picture_For_README/1_Video.gif)
